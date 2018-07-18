@@ -1,0 +1,64 @@
+body {
+  background-color: lightpink;
+}
+#hd2 {
+  color: red;
+  margin-left: 550px;
+  margin-top: 60px;
+  font-size: 50px;
+}
+
+#table1 {
+  border-spacing: 30px 20px;
+  margin-top: 10px;
+  margin-left: 200px;
+}
+#thh {
+  font-size: 30px;
+  color: green;
+}
+#tdd {
+  font-size: 25px;
+  color: black;
+}
+.class {
+  font-weight: bold;
+  font-size: 30 px;
+}
+#piid {
+  margin-left: 638px;
+  color: blue;
+}
+
+#button1 {
+  margin-left: 1152px;
+  background: url("https://cdn1.iconfinder.com/data/icons/ecommerce-free/96/Cart-512.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 90px 90px;
+  padding: 10px 20px;
+  height: 90px;
+  width: 90px;
+  border: none;
+}
+.button2 {
+  color: blue;
+  padding: 6px 18px;
+}
+.button3 {
+  color: blue;
+  padding: 6px 18px;
+}
+#car {
+  color: red;
+  margin-left: 550px;
+}
+#tar {
+  border-spacing: 50px 20px;
+  margin-top: 30px;
+  margin-left: 280px;
+}
+
+#cartHead {
+  color: red;
+}
